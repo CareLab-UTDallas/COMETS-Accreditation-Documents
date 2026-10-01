@@ -5,7 +5,7 @@ response for the Clinical Psychological Science concentration at The
 University of Texas at Dallas, shared in support of the manuscript:
 
 Callahan, J. L., Ruggero, C. J., Warren, S. L., Kent, J. S., 
-Pinkham, A. E., Kakhnovets Ybarra, R., & Holub, S. C. (under review). 
+Pinkham, A. E., Kakhnovets Ybarra, R., & Holub, S. C. (in press). 
 Rebuilding clinical science training: An evidence-first framework for 
 structural reform. *Clinical Psychological Science*.
 
